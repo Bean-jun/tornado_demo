@@ -1,4 +1,3 @@
-from unicodedata import name
 from app.view.example import ExampleViewHandler
 from app.view import auth
 
